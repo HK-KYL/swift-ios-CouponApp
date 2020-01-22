@@ -1,28 +1,39 @@
 # iOS(swift) - Coupon redeem mobile application
 
 ## Main page
-<div align="center">
+<div align="left">
     <img src="https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/main.png" width="400px"</img> 
 </div>
 
-
 ## Coupon detail
-![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/detail.png?)
+<div align="left">
+    <img src="https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/detail.png" width="400px"</img> 
+</div>
 
 ## Coupon redeem
-![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/redeem.png?)
+<div align="left">
+    <img src="https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/redeem.png" width="400px"</img> 
+</div>
 
 ## Location list
-![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/location_list.png?)
+<div align="left">
+    <img src="https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/location_list.png" width="400px"</img> 
+</div>
 
 ## Location
-![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/location.png?)
+<div align="left">
+    <img src="https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/location.png" width="400px"</img> 
+</div>
 
 ## User detail
-![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/user_detail.png?)
+<div align="left">
+    <img src="https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/user_detail.png" width="400px"</img> 
+</div>
 
 ## Login
-![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/login.png?)
+<div align="left">
+    <img src="https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/login.png" width="400px"</img> 
+</div>
 
 
 
