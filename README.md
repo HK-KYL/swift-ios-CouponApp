@@ -1,10 +1,10 @@
 # iOS(swift) - Coupon redeem mobile application
 
 ## Main page
-![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/main.png?raw=true=250x250)
+![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/main.png=250x250)
 
 ## Coupon detail
-![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/detail.png?raw=true){:height="50%" width="50%"}
+![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/detail.png?raw=true)
 
 ## Coupon redeem
 ![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/redeem.png?raw=true)
