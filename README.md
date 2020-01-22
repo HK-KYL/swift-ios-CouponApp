@@ -4,22 +4,22 @@
 ![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/main.png?)
 
 ## Coupon detail
-![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/detail.png?raw=true)
+![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/detail.png?)
 
 ## Coupon redeem
-![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/redeem.png?raw=true)
+![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/redeem.png?)
 
 ## Location list
-![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/location_list.png?raw=true)
+![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/location_list.png?)
 
 ## Location
-![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/location.png?raw=true)
+![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/location.png?)
 
 ## User detail
-![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/user_detail.png?raw=true)
+![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/user_detail.png?)
 
 ## Login
-![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/login.png?raw=true)
+![alt text](https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/login.png?)
 
 
 
