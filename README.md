@@ -22,7 +22,7 @@
 
 ## Location
 <div align="left">
-    <img src="https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/location.png" width="400px"</img> 
+    <img src="https://github.com/HK-KYL/swift-ios-CouponApp/blob/master/readme-img/location_list.png?raw=true" width="400px"</img> 
 </div>
 
 ## User detail
